@@ -1,1 +1,6 @@
-console.log("this is a secret message. shhhhhhh.....")
+function gitFunction (){
+
+	return "Hey, this works!";
+
+}
+console.log(gitFunction);
